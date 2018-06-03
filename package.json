@@ -36,6 +36,7 @@
     ]
   },
   "dependencies": {
+    "grapesjs": "^0.10.7",
     "juice": "^4.1.1"
   }
 }
